@@ -1,10 +1,10 @@
-# 📊 Data Analytics Portfolio
+📊 Data Analytics Portfolio
 
 Welcome to my data analytics portfolio repository! This project showcases my work using Excel, Power BI, and documentation to analyze various datasets across customer care and cinema sales domains.
 
 ---
 
-## 📁 Files Overview
+ 📁 Files Overview
 
 | File Name                             | Description                                                              |
 |--------------------------------------|--------------------------------------------------------------------------|
@@ -16,7 +16,7 @@ Welcome to my data analytics portfolio repository! This project showcases my wor
 
 ---
 
-## 🧠 Skills Demonstrated
+ 🧠 Skills Demonstrated
 
 - 📈 **Excel Skills**: Functions like `SUM`, `AVERAGE`, `IF`, conditional formatting, percentage revenue shares, charting, and scenario analysis.
 - 📊 **Power BI**: Dashboards, slicers, KPIs, and DAX measures for dynamic, real-time analytics.
@@ -24,26 +24,26 @@ Welcome to my data analytics portfolio repository! This project showcases my wor
 
 ---
 
-## 🚀 Projects in Focus
+🚀 Projects in Focus
 
-### 🎟️ Cinema Ticket Sales Analysis
+ 🎟️ Cinema Ticket Sales Analysis
 - Uses Excel to analyze ticket sales across cities.
 - Calculates revenue based on ticket price (₹250), and identifies the revenue share by city.
 - Statistical insights: min, max, average ticket sales, and earnings.
 - Includes percentage contribution of each city to total earnings.
 
-### 🛠️ Customer Service Helpdesk Assignment
+ 🛠️ Customer Service Helpdesk Assignment
 - Excel logic assigns helpdesk responsibility based on the customer's country.
 - Highlights high-priority service requests based on reason and value thresholds.
 - Useful for automating basic customer service workflows using formulas.
 
-### 📊 Power BI Project
+📊 Power BI Project
 - Builds dynamic dashboards to explore business metrics.
 - Filters, charts, and summary cards for clear insight delivery.
 
 ---
 
-## 💡 How to Use
+💡 How to Use
 
 1. Clone or download this repository.
 2. Open `.xlsx` files in Excel, `.pbix` files in Power BI Desktop, and `.pptx`/.docx files using MS Office or compatible software.
@@ -51,16 +51,12 @@ Welcome to my data analytics portfolio repository! This project showcases my wor
 
 ---
 
-## 📌 Author
+📌 Author
 
-**Md Soheb Akhter**  
+Md Soheb Akhter 
 Aspiring Data Analyst | Excel & Power BI Projects  
-📧 [Your Email (optional)]  
-🔗 [LinkedIn or Portfolio (optional)]
 
----
-
-## 📜 License
+📜 License
 
 This project is shared under the MIT License. You are free to use and adapt it with attribution.
 
